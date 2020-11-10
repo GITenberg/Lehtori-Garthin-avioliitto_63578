@@ -1,5 +1,5 @@
 _repo: Lehtori-Garthin-avioliitto_63578
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Han och hans hustru. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     - Siljansaari, M.
     gutenberg_agent_id: '50332'
     url: http://www.gutenberg.org/2009/agents/50332
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Beskow, Elisabeth Maria
@@ -21,6 +24,8 @@ creator:
     - https://sv.wikipedia.org/wiki/Elisabeth_Beskow
     - https://fi.wikipedia.org/wiki/Elisabeth_Beskow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63578#Lehtori-Garthin-avioliitto
 gutenberg_issued: '2020-10-30'
 gutenberg_type: Text
 identifiers:
