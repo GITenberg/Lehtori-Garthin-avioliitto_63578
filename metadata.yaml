@@ -1,0 +1,37 @@
+_repo: Lehtori-Garthin-avioliitto_63578
+_version: 0.0.1
+alternative_title: Han och hans hustru. Finnish
+contributor:
+  translator:
+    agent_name: Siljansaari, Matilda
+    aliases:
+    - S., M.
+    - Siljansaari, M.
+    gutenberg_agent_id: '50332'
+    url: http://www.gutenberg.org/2009/agents/50332
+creator:
+  author:
+    agent_name: Beskow, Elisabeth Maria
+    alias: Runa
+    birthdate: 1870
+    deathdate: 1928
+    gutenberg_agent_id: '44894'
+    url: http://www.gutenberg.org/2009/agents/44894
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/Elisabeth_Beskow
+    - https://fi.wikipedia.org/wiki/Elisabeth_Beskow
+description: ''
+gutenberg_issued: '2020-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63578'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: Lehtori Garthin avioliitto
+url: http://www.gutenberg.org/ebooks/63578
